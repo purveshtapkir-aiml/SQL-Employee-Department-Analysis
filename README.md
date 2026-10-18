@@ -25,7 +25,6 @@ The project progresses from basic SQL queries to advanced analytical techniques,
 
 ```text
 SQL-Employee-Department-Analysis/
-│
 ├── database_setup.sql
 ├── level_1_basic_queries.sql
 ├── level_2_intermediate_queries.sql
@@ -34,6 +33,7 @@ SQL-Employee-Department-Analysis/
 ├── level_5_master_queries.sql
 └── README.md
 ```
+
 
 ## Database Tables
 
